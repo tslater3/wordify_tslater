@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Practicing creating a game}
   spec.description   = %q{Creating a gem to demo creating a gem}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/tslater3/wordify_tslater"
   spec.license       = "MIT"
 
 
@@ -24,4 +24,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency 'pry'
   spec.add_development_dependency 'rspec'
+
 end
