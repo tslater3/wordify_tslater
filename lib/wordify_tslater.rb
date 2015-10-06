@@ -1,4 +1,5 @@
 require "wordify_tslater/version"
+require "wordify_tslater/greeting"
 
 module WordifyTslater
   def self.reversify(str)
